@@ -1,0 +1,63 @@
+
+
+ul{
+    
+    font-weight:bold; 
+}
+ul li{
+    padding: 10px;
+    display: flex;
+    color: white;
+    float: right;
+
+}
+a{
+  margin-top: -200px;
+  color: black;
+}
+ body{
+   
+    background: url(bgd1.jpg);
+   
+    height: 100vh;
+    
+    background-size: cover;
+    height: 100vh;
+    
+
+}
+span1{
+    color: chocolate
+}
+ span{
+    color: chocolate;
+ }   
+.photo{
+    border-radius:170px;
+    height: 200px;
+    margin-left: 65px;
+}
+.ook{
+    margin-left: 650px;
+    margin-top: -320px;
+    
+}
+.phot{
+    margin-top: -50px;
+    margin-left: 270px;
+    border-radius: 100PX;
+}
+footer{
+    background-color: burlywood;
+    padding: 0px;
+    margin: 0PX;
+
+}
+.icon{
+font-size: 70px;
+    text-align: right;
+}
+px{
+     text-align: right;
+     font-size: 40px;   
+}
